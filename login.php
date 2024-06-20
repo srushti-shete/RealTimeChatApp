@@ -24,5 +24,6 @@
         </section>
     </div>
     <script src="javasctipt/pass-show-hide.js"></script>
+    <script src="javasctipt/login.js"></script>
 </body>
 </html>
