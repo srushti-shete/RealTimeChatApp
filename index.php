@@ -1,6 +1,4 @@
-<head>
-  <link rel="stylesheet" href="style.css">
-</head>
+<?php include_once "header.php"; ?>
 <body>
   <div class="wrapper">
     <section class="form signup">
@@ -22,9 +20,9 @@
           <input type="text" name="email" placeholder="Enter your email" required>
         </div>
         <div class="field input">
-          <label>Password</label>
-          <input type="password" name="password" placeholder="Enter new password" required>
-          <i class="fas fa-eye"></i>
+                    <label>Password</label>
+                    <input type="password" name="password" placeholder="Enter new password" required>
+                    <i class="fas fa-eye"></i>
         </div>
         <div class="field image">
           <label>Select Image</label>
@@ -37,6 +35,6 @@
       <div class="link">Already signed up? <a href="login.html">Login now</a></div>
     </section>
   </div>
-
+<script src="javasctipt/pass-show-hide.js"></script>
 </body>
 </html>
