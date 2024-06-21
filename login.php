@@ -23,7 +23,7 @@
             <div class="link">Not yet signed up? <a href="index.html">Signup now</a></div>
         </section>
     </div>
-    <script src="javasctipt/pass-show-hide.js"></script>
-    <script src="javasctipt/login.js"></script>
+    <script src="javascript/pass-show-hide.js"></script>
+    <script src="javascript/login.js"></script>
 </body>
 </html>
