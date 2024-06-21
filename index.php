@@ -35,7 +35,7 @@
       <div class="link">Already signed up? <a href="login.html">Login now</a></div>
     </section>
   </div>
-<script src="javasctipt/pass-show-hide.js"></script>
-<script src="javasctipt/signup.js"></script>
+<script src="javascript/pass-show-hide.js"></script>
+<script src="javascript/signup.js"></script>
 </body>
 </html>
